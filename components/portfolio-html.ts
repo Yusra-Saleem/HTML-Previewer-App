@@ -199,7 +199,8 @@ export const portfolioHtml = `
             }
             nav {
                 background-color: var(--secondary-color);
-                padding: 0px 4px;
+                padding: 10px 4px;
+                padding-top: 0px;
                 display: flex;
                 width-100%;
                 position: sticky;
