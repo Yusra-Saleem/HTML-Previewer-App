@@ -191,6 +191,9 @@ export const portfolioHtml = `
                 margin-top: 10px; 
                 font-size: 18px; "
             }
+            nav{
+            padding-top:0px;
+            }
 
             nav ul {
                 flex-direction: row;
