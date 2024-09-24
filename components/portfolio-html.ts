@@ -198,9 +198,9 @@ export const portfolioHtml = `
                 align-items: center;
             }
             nav {
-                background-color: var(--secondary-color);
-                padding: 10px 4px;
-                padding-top: 0px;
+                background-color: var(--secondary-color);  
+                padding: 10px;
+                padding-top:0px;
                 display: flex;
                 width-100%;
                 position: sticky;
