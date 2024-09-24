@@ -41,6 +41,7 @@ export const portfolioHtml = `
         nav {
             background-color: var(--secondary-color);
             padding: 15px;
+            padding-top:0px;
             display: flex;
             width: 100%; 
             position: sticky;
