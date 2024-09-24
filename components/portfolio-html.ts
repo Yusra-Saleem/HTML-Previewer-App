@@ -191,9 +191,7 @@ export const portfolioHtml = `
                 margin-top: 10px; 
                 font-size: 18px; "
             }
-            nav{
-            padding-top:0px;
-            }
+           
 
             nav ul {
                 flex-direction: row;
@@ -201,7 +199,7 @@ export const portfolioHtml = `
             }
             nav {
                 background-color: var(--secondary-color);
-                padding: 10px 4px;
+                padding: 0px 4px;
                 display: flex;
                 width-100%;
                 position: sticky;
