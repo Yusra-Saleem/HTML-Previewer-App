@@ -181,7 +181,7 @@ export const portfolioHtml = `
             scroll-behavior: smooth;
         }
 
-        @media ((min-width:320px) and (max-width: 768px)) {
+        @media ((min-width:300px) and (max-width: 768px)) {
             header {
             
                 color: white;
