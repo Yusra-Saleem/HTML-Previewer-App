@@ -43,7 +43,7 @@ export default function HTMLPreviewComponent() {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-indigo-100 text-foreground overflow-y-auto">
       {/* Center the HTML previewer card within the screen */}
-      <div className="w-full max-w-5xl p-3 min-w-[310px]  rounded-lg shadow-2xl bg-gray-800 overflow-y-auto ">
+      <div className="w-full max-w-5xl p-3 min-w-[310px]  rounded-lg shadow-2xl bg-slate-800 overflow-y-auto ">
         <h1 className="text-4xl text-purple-100 font-extrabold mb-4 text-center">HTML Previewer</h1>
         <p className="text-gray-300 text-semibold mb-4 text-center">
           Enter your HTML code and see the preview.
