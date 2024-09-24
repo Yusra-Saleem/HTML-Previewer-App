@@ -10,7 +10,7 @@ export const portfolioHtml = `
     <style>
         * {
             margin: 0;
-            padding: 0;
+            padding-top: 10px;
             box-sizing: border-box;
         }
 
