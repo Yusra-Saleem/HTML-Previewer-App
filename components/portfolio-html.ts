@@ -42,10 +42,13 @@ export const portfolioHtml = `
             background-color: var(--secondary-color);
             padding: 15px;
             display: flex;
-            width-100%;
+            width: 100%; 
             position: sticky;
+            top: 0; 
             justify-content: center;
+            z-index: 1000; 
         }
+
 
         nav ul {
             list-style: none;
