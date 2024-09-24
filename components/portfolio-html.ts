@@ -209,6 +209,7 @@ export const portfolioHtml = `
 
                 nav ul li {
                 margin: 0 0px;
+                padding-top: 0;
             }
 
             nav ul li a {
