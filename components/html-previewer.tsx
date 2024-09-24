@@ -72,7 +72,7 @@ export default function HTMLPreviewComponent() {
               </div>
               </div>
           {/* Div to display the HTML preview with scroll enabled */}
-          <div className="p-3 rounded-lg border border-input bg-background text-foreground overflow-y-auto max-h-[500px] overflow-x-hidden">
+          <div className="p-3 pt-0 rounded-lg border border-input bg-background text-foreground overflow-y-auto max-h-[500px] overflow-x-hidden">
             <div dangerouslySetInnerHTML={{ __html: previewHtml }} />
           </div>
         </div>
